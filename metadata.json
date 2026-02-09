@@ -1,0 +1,5 @@
+{
+  "name": "Domus",
+  "description": "A family management app for tasks, approvals, and shopping lists with role-based access.",
+  "requestFramePermissions": []
+}
